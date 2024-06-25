@@ -1,0 +1,16 @@
+{
+  "name": "seu-projeto",
+  "version": "1.0.0",
+  "description": "Projeto usando JSON Server e Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "json-server": "json-server --watch db/db.json --port 3000"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "json-server": "^0.16.3"
+  },
+  "author": "",
+  "license": "ISC"
+}

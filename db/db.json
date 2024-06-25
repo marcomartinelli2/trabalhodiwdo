@@ -1,0 +1,115 @@
+{
+  "repositories": [
+    {
+      "id": 1,
+      "name": "Repositório 1",
+      "description": "Conteúdos educacionais sobre programação, incluindo tutoriais e exemplos práticos.",
+      "link": "repositorio1.html"
+    },
+    {
+      "id": 2,
+      "name": "Repositório 2",
+      "description": "Uma Super IA que constrói tudo, com exemplos de projetos e implementações.",
+      "link": "repositorio2.html"
+    },
+    {
+      "id": 3,
+      "name": "Repositório 3",
+      "description": "Componentes React prontos para uso, facilitando o desenvolvimento de aplicações web.",
+      "link": "repositorio3.html"
+    }
+  ],
+  
+  "users": [
+    {
+      "login": "marcomartinelli2",
+      "id": 164274047,
+      "node_id": "U_kgDOCcqffw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/164274047?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/marcomartinelli2",
+      "html_url": "https://github.com/marcomartinelli2",
+      "followers_url": "https://api.github.com/users/marcomartinelli2/followers",
+      "following_url": "https://api.github.com/users/marcomartinelli2/following{/other_user}",
+      "gists_url": "https://api.github.com/users/marcomartinelli2/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/marcomartinelli2/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/marcomartinelli2/subscriptions",
+      "organizations_url": "https://api.github.com/users/marcomartinelli2/orgs",
+      "repos_url": "https://api.github.com/users/marcomartinelli2/repos",
+      "events_url": "https://api.github.com/users/marcomartinelli2/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/marcomartinelli2/received_events",
+      "type": "User",
+      "site_admin": false,
+      "name": "Marco Martinelli do Carmo Prado",
+      "company": null,
+      "blog": "",
+      "location": null,
+      "email": null,
+      "hireable": null,
+      "bio": "Me chamo Marco Martinelli do Carmo Prado, tenho 18 anos. Sou estudante de Sistemas de Informação na PUC. Tenho conhecimentos básicos em C# e HTML/CSS.",
+      "twitter_username": null,
+      "public_repos": 1,
+      "public_gists": 0,
+      "followers": 0,
+      "following": 2,
+      "created_at": "2024-03-21T00:12:24Z",
+      "updated_at": "2024-06-13T00:27:02Z"
+    }
+  ],
+  
+  "carousel": [
+    {
+      "id": 1,
+      "type": "image",
+      "src": "assets/img/pcsinho.png",
+      "alt": "hacker da vida real"
+    },
+    {
+      "id": 2,
+      "type": "video",
+      "src": "https://www.youtube.com/embed/QMbx0dTWJIQ?si=FpU0g9SwYrJLRSlu"
+    },
+    {
+      "id": 3,
+      "type": "video",
+      "src": "https://www.youtube.com/embed/pEfrdAtAmqk?si=30foCtZBZtudmKMt"
+    },
+    {
+      "id": 4,
+      "type": "video",
+      "src": "https://www.youtube.com/embed/WR1ydijTx5E?si=RjGWbg0gn17tI_Qw"
+    },
+    {
+      "id": 5,
+      "type": "video",
+      "src": "https://www.youtube.com/embed/3Xhe5YyIsiw?si=0DGp8g6h10q5dTA-"
+    }
+  ],
+  
+  "skills": [
+    {
+      "id": 1,
+      "src": "assets/img/jao.jpeg",
+      "alt": "Imagem de João",
+      "github_url": "https://github.com/joaomgsb"
+    },
+    {
+      "id": 2,
+      "src": "assets/img/stefano.jpeg",
+      "alt": "Imagem de Stefano",
+      "github_url": "https://github.com/StefanoGennaro"
+    },
+    {
+      "id": 3,
+      "src": "assets/img/luiz.jpeg",
+      "alt": "Imagem de Luiz",
+      "github_url": "https://github.com/LuizinDoTI"
+    },
+    {
+      "id": 4,
+      "src": "assets/img/WhatsApp Image 2024-04-18 at 21.34.02.jpeg",
+      "alt": "Imagem de WhatsApp",
+      "github_url": "https://github.com/zVitox39"
+    }
+  ]
+}
