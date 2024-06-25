@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "json-server": "json-server --watch db/db.json --port 3000"
+    "json-server": "json-server --watch db/db.json --port 3000 --static ./public"
   },
   "dependencies": {
     "express": "^4.19.2",
